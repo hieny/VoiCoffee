@@ -1,6 +1,4 @@
-Certainly! Below is a sample README file for your landing page project:
 
----
 
 # VoiCoffee Landing Page
 
